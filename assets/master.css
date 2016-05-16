@@ -1,0 +1,99 @@
+*{
+	font-family: arial;
+}
+
+#register{
+	width: 44%;
+	display: inline-block;
+	border: 1px black solid;
+	padding: 2%;
+}
+
+#login{
+	width: 44%;
+	display: inline-block;
+	vertical-align: top;
+	padding: 2%;
+	border: 1px black solid;
+}
+
+input{
+	float: right;
+}
+
+#pwWarn{
+	font-size: 10px;
+}
+
+.pull-right{
+	float: right;
+}
+
+#header p{
+	display: inline-block;
+}
+
+#addForm {
+	width: 50%;
+}
+
+.clear{
+	clear: both;
+}
+
+#bookTitle{
+	width: 60%;
+	border: 1px solid black;
+}
+
+#addForm textarea{
+	float: right;
+	width: 60%;
+}
+
+#selectAuthor, #inputAuthor{
+	width: 50%;
+	float: right;
+	border: 1px solid black;
+}
+.eachReview{
+	border-top: 1px solid black;
+	padding-left: 2%;
+}
+#leftPane{
+	width: 60%;
+	display: inline-block;
+	margin-right:8%;
+}
+#rightPane{
+	width: 30%;
+	display: inline-block;
+	vertical-align: top;
+}
+#reviewBox{
+	display: block;
+	width: 80%;
+	height:200px;
+	border: 2px solid black;
+}
+.boldTitle{
+	font-weight:600;
+}
+.bookLink{
+	display:block;
+}
+#userCard{
+	font-size:150%;
+}
+#reviewCard p {
+	font-size:150%;
+	font-weight:600;
+}
+#reviewCard a {
+	margin-left: 2%;
+	margin-bottom:4px;
+	font-size:120%;
+}
+.dateLine {
+	font-style: italic;
+}
